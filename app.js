@@ -14,6 +14,7 @@
 //         prise = prise
 //     }
 //     result.innerText = `Цена билета равна ${prise}`
+//
 // })
 
 let myInput = document.createElement('input'),
